@@ -83,6 +83,12 @@ let All_song = [
      path: "music/song9.mp3",
      img: "img/img9.jpg",
      singer: "9"
+   }  ,
+   {
+     name: "Daydream",
+     path: "music/song10.mp3",
+     img: "img/img10.jpg",
+     singer: "10"
    }
 ];
 
