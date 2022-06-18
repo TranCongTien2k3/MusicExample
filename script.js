@@ -1,4 +1,3 @@
-
 let previous = document.querySelector('#pre');
 let play = document.querySelector('#play');
 let next = document.querySelector('#next');
@@ -170,7 +169,7 @@ function autoplay_switch(){
        auto_play.style.background = "rgba(255,255,255,0.2)";
 	}else{
        autoplay = 1;
-       auto_play.style.background = "#FF8A65";
+       auto_play.style.background = "#148F77";
 	}
 }
 
