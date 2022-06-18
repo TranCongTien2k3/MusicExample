@@ -27,34 +27,62 @@ let track = document.createElement('audio');
 //All songs list
 let All_song = [
    {
-     name: "first song",
+     name: "Ai là người thương em",
      path: "music/song1.mp3",
      img: "img/img1.jpg",
      singer: "1"
    },
    {
-     name: "second song",
+     name: "Chúng ta không thuộc về nhau",
      path: "music/song2.mp3",
      img: "img/img2.jpg",
      singer: "2"
    },
    {
-     name: "third song",
+     name: "Yêu từ đâu mà ra",
      path: "music/song3.mp3",
      img: "img/img3.jpg",
      singer: "3"
    },
    {
-     name: "fourth song",
+     name: "Em của ngày hôm qua",
      path: "music/song4.mp3",
      img: "img/img4.jpg",
      singer: "4"
    },
    {
-     name: "fifth song",
+     name: "nắng ấm xa dần",
      path: "music/song5.mp3",
      img: "img/img5.jpg",
      singer: "5"
+   }
+   ,
+   {
+     name: "Liệu giờ",
+     path: "music/song6.mp3",
+     img: "img/img6.jpg",
+     singer: "6"
+   }
+   ,
+   {
+     name: "Tướng quân",
+     path: "music/song7.mp3",
+     img: "img/img7.jpg",
+     singer: "7"
+   }
+   ,
+   {
+     name: "hong kong 1",
+     path: "music/song8.mp3",
+     img: "img/img8.jpg",
+     singer: "8"
+   }
+   ,
+   {
+     name: "Mười ngàn năm",
+     path: "music/song9.mp3",
+     img: "img/img9.jpg",
+     singer: "9"
    }
 ];
 
